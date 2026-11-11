@@ -14,6 +14,8 @@
 
 - MetalAtom — Open-source simulation of metal powder gas atomization. https://github.com/workshopcompany/MetalAtom
 - Drawing-to-Parametric-CAD — Reads engineering drawings and builds parametric FreeCAD models. https://github.com/workshopcompany/drawing-to-parametric-cad
+- likesuno — Local music generation app on open-source YuE2 (Suno-style) — style prompt + lyrics become a finished song with vocals. https://github.com/workshopcompany/likesuno_update
+- Reels Maker — Automated Shorts/Reels pipeline for Windows — trend research, script, TTS, scene images, and YouTube upload from a browser UI. https://github.com/workshopcompany/reels_maker_update
 
 ## Author
 

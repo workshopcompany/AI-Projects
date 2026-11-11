@@ -15,6 +15,8 @@ Live site: https://workshopcompany.github.io/AI-Projects/
 
 - **MetalAtom** — Open-source simulation of metal powder gas atomization. [Source](https://github.com/workshopcompany/MetalAtom)
 - **Drawing-to-Parametric-CAD** — Reads engineering drawings and builds parametric FreeCAD models. [Source](https://github.com/workshopcompany/drawing-to-parametric-cad)
+- **likesuno** — Local music generation app on open-source YuE2 (Suno-style) — style prompt + lyrics become a finished song with vocals. [Source](https://github.com/workshopcompany/likesuno_update)
+- **Reels Maker** — Automated Shorts/Reels pipeline for Windows — trend research, script, TTS, scene images, and YouTube upload from a browser UI. [Source](https://github.com/workshopcompany/reels_maker_update)
 
 ## Author
 
