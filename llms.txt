@@ -1,0 +1,15 @@
+# AI & Engineering Portfolio — Minchul Kim
+
+> A hub of free data-analysis and process-automation tools built with Streamlit and Python by Minchul Kim, Advanced Materials Engineer.
+> Site: https://workshopcompany.github.io/AI-Projects/
+
+## Tools
+
+- MOLDIQ — Optimization and shrinkage prediction tool for Metal Injection Molding (MIM) processes. https://moldiq.streamlit.app/
+- OpenFOAM Injection Automation — Automation tool for OpenFOAM simulations and fluid flow analysis support. https://openfoam-injection-automation.streamlit.app/
+- IELTS Speaking Video Maker — AI-powered video generation and learning assistant for IELTS speaking practice. https://ielts-speaking-video-maker.streamlit.app/
+- OpenSource Match Program — A matching and management program for open-source project collaboration. https://opensource-match-program.streamlit.app/
+
+## Author
+
+- Minchul Kim, Advanced Materials Engineer. Personal portfolio: https://workshopcompany.github.io/minchul-kim/
