@@ -1,6 +1,6 @@
 # AI & Engineering Portfolio — Minchul Kim
 
-> A hub of free data-analysis and process-automation tools built with Streamlit and Python by Minchul Kim, Advanced Materials Engineer.
+> A hub of free data-analysis and process-automation tools built with Streamlit and Python by Minchul Kim, Advanced Materials Engineer, plus open-source engineering projects.
 > Site: https://workshopcompany.github.io/AI-Projects/
 
 ## Tools
@@ -9,6 +9,11 @@
 - OpenFOAM Injection Automation — Automation tool for OpenFOAM simulations and fluid flow analysis support. https://openfoam-injection-automation.streamlit.app/
 - IELTS Speaking Video Maker — AI-powered video generation and learning assistant for IELTS speaking practice. https://ielts-speaking-video-maker.streamlit.app/
 - OpenSource Match Program — A matching and management program for open-source project collaboration. https://opensource-match-program.streamlit.app/
+
+## Open-Source Projects
+
+- MetalAtom — Open-source simulation of metal powder gas atomization. https://github.com/workshopcompany/MetalAtom
+- Drawing-to-Parametric-CAD — Reads engineering drawings and builds parametric FreeCAD models. https://github.com/workshopcompany/drawing-to-parametric-cad
 
 ## Author
 
